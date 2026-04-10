@@ -1,5 +1,5 @@
 Project 01 — Procurement Spend Tracker (FY 2024)
-Part of my Data Analytics Portfolio | Kutlo Hlolo Tsheiso
+Part of my Data Analytics Portfolio | Hlolo Kutlo Tsheiso
 
 Overview
 This project simulates a real-world procurement spend tracker for a fictional company operating across South Africa. It was built as the first project in my self-directed data analytics learning journey, combining my hands-on procurement experience with newly acquired data skills.
